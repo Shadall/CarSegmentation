@@ -14,7 +14,7 @@ Differentiable approximation of Dice Loss:
 
 ![image info](readme_pics/dice_loss.png)
 
-# Model Reference
+# Model Inference
 
 ![image info](readme_pics/reference.png)
 
